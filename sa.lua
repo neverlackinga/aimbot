@@ -1,3 +1,11 @@
+
+game.StarterGui:SetCore(
+    "SendNotification",
+    {
+	Title = "Neverlockin BETA 0.1v",
+	Text = "thanks tenaki <3",
+}
+)
 getgenv().RecurringPoint = "UpperTorso"
 getgenv().Hitbox = "UpperTorso"
 getgenv().Keybind = "v"
