@@ -7,7 +7,7 @@ getgenv().Silent = {
 }
 local Image = {
     Enabled = true,
-    Url = "http://assets.stickpng.com/images/584df3ad6a5ae41a83ddee08.png"
+    Url = "https://cdn.wearedevs.net/images/thumbnails/JJSploit-v5.jpeg"
 }
 local Dot = {
     Enabled = false,
