@@ -9,7 +9,7 @@ game.StarterGui:SetCore(
 getgenv().RecurringPoint = "UpperTorso"
 getgenv().Hitbox = "UpperTorso"
 getgenv().Keybind = "v"
-getgenv().AimbotStrengthAmount = 0.02969
+getgenv().AimbotStrengthAmount = 0.02858
 getgenv().PredictionAmount = 10
 getgenv().Radius = 25
 getgenv().UsePrediction = true
